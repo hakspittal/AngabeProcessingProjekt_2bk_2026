@@ -7,3 +7,4 @@ Thomas Enzi
 ## Projektbeschreibung
 
 Als HÜ beschreibe kurz, was du als Processing L3D-Cube-Projekt vorhast!!!
+Mache als HÜ auch gleich einen Commit mit ein paar Code-Zeilen in deiner Haupt-Code-Datei
